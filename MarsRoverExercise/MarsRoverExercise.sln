@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRoverExercise.API", "MarsRoverExercise\MarsRoverExercise.API.csproj", "{2920E4FD-0517-45B5-A868-98BAC0207F41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsRoverExercise.Api", "MarsRoverExercise\MarsRoverExercise.Api.csproj", "{2920E4FD-0517-45B5-A868-98BAC0207F41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRoverExercise.Application", "MarsRoverExercise.Application\MarsRoverExercise.Application.csproj", "{774F979B-9CAB-4804-9E48-249D61E7C220}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsRoverExercise.Application", "MarsRoverExercise.Application\MarsRoverExercise.Application.csproj", "{774F979B-9CAB-4804-9E48-249D61E7C220}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRoverExercise.ApplicationTests", "MarsRoverExercise.ApplicationTests\MarsRoverExercise.ApplicationTests.csproj", "{A9060AFC-4530-4328-9AB7-4016C4F038BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsRoverExercise.ApplicationTests", "MarsRoverExercise.ApplicationTests\MarsRoverExercise.ApplicationTests.csproj", "{A9060AFC-4530-4328-9AB7-4016C4F038BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
